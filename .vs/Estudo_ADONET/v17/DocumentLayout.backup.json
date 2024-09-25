@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\source\\repos\\Estudo_ADONET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7380870-BB5C-44C0-9678-9B958F8F9BC5}|Estudo_ADONET\\Estudo_ADONET.csproj|c:\\users\\rafae\\source\\repos\\estudo_adonet\\estudo_adonet\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7380870-BB5C-44C0-9678-9B958F8F9BC5}|Estudo_ADONET\\Estudo_ADONET.csproj|solutionrelative:estudo_adonet\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7380870-BB5C-44C0-9678-9B958F8F9BC5}|Estudo_ADONET\\Estudo_ADONET.csproj|c:\\users\\rafae\\source\\repos\\estudo_adonet\\estudo_adonet\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7380870-BB5C-44C0-9678-9B958F8F9BC5}|Estudo_ADONET\\Estudo_ADONET.csproj|solutionrelative:estudo_adonet\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7380870-BB5C-44C0-9678-9B958F8F9BC5}|Estudo_ADONET\\Estudo_ADONET.csproj|c:\\users\\rafae\\source\\repos\\estudo_adonet\\estudo_adonet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7380870-BB5C-44C0-9678-9B958F8F9BC5}|Estudo_ADONET\\Estudo_ADONET.csproj|solutionrelative:estudo_adonet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7380870-BB5C-44C0-9678-9B958F8F9BC5}|Estudo_ADONET\\Estudo_ADONET.csproj|c:\\users\\rafae\\source\\repos\\estudo_adonet\\estudo_adonet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7380870-BB5C-44C0-9678-9B958F8F9BC5}|Estudo_ADONET\\Estudo_ADONET.csproj|solutionrelative:estudo_adonet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\Estudo_ADONET\\Estudo_ADONET\\Form2.cs",
+              "RelativeDocumentMoniker": "Estudo_ADONET\\Form2.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\Estudo_ADONET\\Estudo_ADONET\\Form2.cs",
+              "RelativeToolTip": "Estudo_ADONET\\Form2.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:29:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\Estudo_ADONET\\Estudo_ADONET\\Form2.cs",
+              "RelativeDocumentMoniker": "Estudo_ADONET\\Form2.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\Estudo_ADONET\\Estudo_ADONET\\Form2.cs [Projeto]",
+              "RelativeToolTip": "Estudo_ADONET\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:21:16.38Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\Estudo_ADONET\\Estudo_ADONET\\Form1.cs",
+              "RelativeDocumentMoniker": "Estudo_ADONET\\Form1.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\Estudo_ADONET\\Estudo_ADONET\\Form1.cs",
+              "RelativeToolTip": "Estudo_ADONET\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:34:10.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\Estudo_ADONET\\Estudo_ADONET\\Form1.cs",
+              "RelativeDocumentMoniker": "Estudo_ADONET\\Form1.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\Estudo_ADONET\\Estudo_ADONET\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Estudo_ADONET\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:25:29.15Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
